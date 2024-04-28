@@ -203,6 +203,7 @@ body {
 }
 
 .loaded_hiding .preloader {
+    display: none;
     transition: 0.3s opacity;
     opacity: 0;
 }
